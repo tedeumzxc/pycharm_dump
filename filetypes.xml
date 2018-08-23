@@ -1,0 +1,45 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="php" type="PHP" />
+      <mapping pattern=".gotignore" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="rqworker" type="PLAIN_TEXT" />
+      <mapping pattern="amenities_dev_v1" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="env_dev" type="PLAIN_TEXT" />
+      <mapping pattern="env_prod" type="PLAIN_TEXT" />
+      <mapping pattern="beddings_dev_v1" type="PLAIN_TEXT" />
+      <mapping pattern="docker-env" type="PLAIN_TEXT" />
+      <mapping pattern="env_den" type="PLAIN_TEXT" />
+      <mapping pattern="hotcored" type="PLAIN_TEXT" />
+      <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
+      <mapping pattern="env-file" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="env-dev" type="PLAIN_TEXT" />
+      <mapping pattern="google_auth" type="PLAIN_TEXT" />
+      <mapping pattern="1233" type="PLAIN_TEXT" />
+      <mapping pattern="service" type="PLAIN_TEXT" />
+      <mapping pattern="go" type="PLAIN_TEXT" />
+      <mapping pattern="sync-static-cli" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
+      <mapping pattern="redis_bookings_collector.go" type="PLAIN_TEXT" />
+      <mapping pattern="cron_jobs" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="domains" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="o-482703118" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="jsonl" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="domain_self" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
